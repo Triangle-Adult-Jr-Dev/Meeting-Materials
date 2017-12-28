@@ -1,4 +1,4 @@
-# Triangle Adult Jr. Developers Meetup
+# Triangle Adult Jr. Developers Meetup (Raleigh, NC)
 
 This is the shared repository of the [Triangle Adult Jr. Developers](https://www.meetup.com/preview/Triangle-Adult-Junior-Developers/). In it you will find:
 
