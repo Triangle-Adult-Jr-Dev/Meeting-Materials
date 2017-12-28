@@ -2,6 +2,7 @@
 ### Add to this list as you wish by making a [pull request](https://github.com/Triangle-Adult-Jr-Dev/Meeting-Materials/pulls)!
 ---
 ### CODE PRACTICE:
+* [freecodebootcamp](https://www.freecodecamp.org/): Learn to code for free and on your own time
 * [Enki](https://www.enki.com/): The 5-minute daily workout for your dev skills
 * [CodeWars](https://www.codewars.com/): Improve your skills by training with others on real code challenges
 * [HackerRank](https://www.hackerrank.com/): Join over 3 million programmers and improve your skills
