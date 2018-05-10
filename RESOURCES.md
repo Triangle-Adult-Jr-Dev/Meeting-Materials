@@ -9,6 +9,7 @@
 * [HackerRank](https://www.hackerrank.com/): Join over 3 million programmers and improve your skills
 * [Lynda](https://www.lynda.com/): LinkedIn's online learning platform
 * [Project Euler](https://projecteuler.net/): a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve
+* [PluralSight](https://www.pluarsight.com/): Similar to Lynda. Get three months free with microsoft developer subscription [microsoft dev](https://www.visualstudio.com/dev-essentials/)
 
 ### JOB SEARCH / FREELANCING STUFFS:
 * [Glassdoor](https://www.glassdoor.com/index.htm): job search site with great from actual employees
